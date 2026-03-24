@@ -37,7 +37,7 @@ const nutrient_abbreviations = [
     "cho",
     "pro",
     "fat"
-]
+];
 
 /* Query Selectors */
 
