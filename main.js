@@ -1,3 +1,10 @@
+/* Service Worker */
+
+navigator?.serviceWorker.register(
+    "/exchange-calculator/service-worker.js",
+    { scope: "/exchange-calculator/" }
+);
+
 /* Presets */
 
 const slider_groups = [
