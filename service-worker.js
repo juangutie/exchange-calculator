@@ -1,5 +1,5 @@
 const REPOSITORY = "exchange-calculator";
-const VERSION = "v5";
+const VERSION = "v6";
 const URLS = [
     "/",
     "/favicon.ico",
